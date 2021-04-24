@@ -71,12 +71,14 @@ a:hover {
 }
 
 .coding {
+  border-radius: 100%;
   margin-right: 30px;
   width: 25%;
   float: left;
 }
 
 .basketball {
+  border-radius: 100%;
   margin-left: 30px;
   width: 25%;
   float: right;
